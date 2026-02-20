@@ -1,0 +1,9 @@
+[
+    {
+        "id": 2,
+        "date": "2026-02-20 18:05",
+        "description": "Bus ticket",
+        "category": "Travel",
+        "amount": 35.5
+    }
+]
